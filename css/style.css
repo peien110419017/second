@@ -144,6 +144,7 @@ header hr{
     
 }
 .footer p{
+	margin:0px;
 	padding-top: 24px;
 	padding-left:463px;
 	font-family:Arial Black;
